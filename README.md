@@ -1,4 +1,4 @@
-<h1 align="center">uwustreamrip</h1>
+<h1 align="center">rip</h1>
 
 <p align="center">
 A Google Colab notebook that rips from services using streamrip uwu.
