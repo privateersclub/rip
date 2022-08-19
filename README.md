@@ -1,8 +1,10 @@
 <h1 align="center">rip</h1>
 
 <p align="center">
-Utiliry notebook for downloading music from the web:tm:.
+Utility notebook for downloading music from the web:tm:.
 </p>
+
+---
 
 ### Requirements
 - Account(s) for the service you're going to download from
@@ -14,4 +16,4 @@ Utiliry notebook for downloading music from the web:tm:.
 #### [License](LICENSE)
 
 #### Special thanks to the authors of the tools used above.
-
+---
